@@ -8,7 +8,7 @@ Page de présentation du concept de soirées « La Tablée des Délices » : on 
 - `app.js` : la scène 3D, compilée avec Three.js r160 (licence MIT)
 - `table.glb`, `lustre.glb` : table ronde et lustre (glTF binaire, textures 1K)
 - `warm_bar_1k.hdr` : éclairage « Warm Bar » (HDR 1K)
-- `alfa-slab-one.woff2`, `bricolage-grotesque.woff2` : polices Alfa Slab One et Bricolage Grotesque (licence OFL), servies en local
+- `archivo.woff2`, `bricolage-grotesque.woff2` : polices Archivo et Bricolage Grotesque (licence OFL), servies en local
 - `affiche.png`, `illustration.png` : visuels de la galerie
 - `Dockerfile` : image nginx qui sert le site en statique
 
